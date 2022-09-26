@@ -1,0 +1,22 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nemo80260/my-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nemo80260/my-node-app/issues"
+  },
+  "homepage": "https://github.com/Nemo80260/my-node-app#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
